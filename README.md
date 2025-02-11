@@ -53,33 +53,31 @@ Edumate is a trailblazing app transforms classrooms with its geofencing magic fo
 - All the models are trained in the jupyterhub workspace, <a href="https://jupyter.oneapi.devcloud.intel.com/user/u206691/doc/tree/edumate-intel_one_api.jupyterlab-workspace" > See the workspace here</a>
 - The notebook links for all the models: <a href="https://jupyter.oneapi.devcloud.intel.com/user/u206691/doc/tree/sentimental_analysis.ipynb">Sentiment analysis</a> , <a href="https://jupyter.oneapi.devcloud.intel.com/user/u206691/doc/tree/Quiz_generator_LLM.ipynb">Test Generator </a> , <a href="https://jupyter.oneapi.devcloud.intel.com/user/u206691/doc/tree/mindful_tips.ipynb">Mindful tip generator</a> , <a href="https://jupyter.oneapi.devcloud.intel.com/user/u206691/doc/tree/plagiarism_checker.ipynb">Plagiarism checker </a>
 
-![image](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/89d677e8-497b-444d-aeb6-6bb902e5cf01)
+![image](https://github.com/dishasingh5422/EDUMATE/blob/main/Assets/Screenshot%202025-02-11%20192638.png)
 
 
 ## Glimpses
-![sentimental](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/12335aea-ba28-4718-9960-d0576edf135f)
-![question](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/14c044d6-7f4d-4410-9e72-a7077da4942b)!
-![landing](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/d180938d-6b51-4529-904f-3b7f7c64b45c)
-[make test](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/f6d30475-707a-4f22-bc41-69adc8d2c384)
-![Forum](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/3f56f731-8003-4093-a6ad-8ccfdfd1e830)
-![make test](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/1a43541d-66fb-41eb-bf26-b50a5976497b)
-![test](https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/eb2202a4-1da7-4b59-b1e7-dbc43ad9ff10)
+![sentimental](https://github.com/dishasingh5422/EDUMATE/blob/main/Assets/Screenshot%202025-02-11%20185741.png)
+![question](https://github.com/dishasingh5422/EDUMATE/blob/main/Assets/Screenshot%202025-02-11%20185844.png)!
+![landing](https://github.com/dishasingh5422/EDUMATE/blob/main/Assets/Screenshot%202025-02-11%20185858.png)
+[make test](https://github.com/dishasingh5422/EDUMATE/blob/main/Assets/Screenshot%202025-02-11%20185911.png)
+![Forum](https://github.com/dishasingh5422/EDUMATE/blob/main/Assets/Screenshot%202025-02-11%20185932.png)
+![make test](https://github.com/dishasingh5422/EDUMATE/blob/main/Assets/Screenshot%202025-02-11%20190001.png)
+![test](https://github.com/dishasingh5422/EDUMATE/blob/main/Assets/Screenshot%202025-02-11%20190018.png)
 
 
 # Video of Teacher App
 
 
-https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/b75de919-8253-401f-9974-b7ce92217e84
-
+https://github.com/dishasingh5422/EDUMATE/blob/main/Assets/techer.mp4
 # Video Of Attendance System
 
 
-https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/47f2d745-0388-483b-ac86-21d904b7fe43
+https://github.com/dishasingh5422/EDUMATE/blob/main/Assets/attedendance.mp4
 
 
 # Video Of Student App
-https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/875fb83d-17a1-4393-986f-954bb1715841
-## Technology Stack 💻
+https://github.com/dishasingh5422/EDUMATE/blob/main/Assets/student.mp4## Technology Stack 💻
 
 > App
 
@@ -102,6 +100,5 @@ https://github.com/vedant-11/edumate---Intel-One-API/assets/69393820/875fb83d-17
 
 | Name             |                GitHub Profile                |
 | :--------------- | :------------------------------------------: |
-| Vedant Singh     |    [GitHub](https://github.com/vedant-11)    |
-| Mayank Kumar Sohanda  | [GitHub](https://github.com/mayankkrsohanda) |
-| Kartikey Mahawar |   [GitHub](https://github.com/kartikey321)   |
+| Disha Singh      |    [GitHub](https://github.com/dishasingh5422)    | 
+| Atharv Kaushik   |    [GitHub](https://github.com/ak2k4)   |
