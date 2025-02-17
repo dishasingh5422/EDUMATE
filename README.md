@@ -1,7 +1,3 @@
-### Team Tek3 ✨🚀
-
-## SRM SDG Internal Hackathon 💫
-
 ![Collaborators](https://img.shields.io/badge/collaborators-3-red)
 ![Status](https://img.shields.io/badge/status-done-green)
 ![Issues](https://img.shields.io/badge/issues-0-blue)
@@ -10,8 +6,7 @@
 
 ## Problem Statement 🚧
 
-<h3>SRM Institute of Science and Technology collaborated with Intel's - One API Platform</h3>
-Problem 1:
+Problem:
 Models to enhance teaching learning process Classroom Environment (SDG 4: Quality
 Education)
 
